@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div id="computer">
+	<div id="screen">
+	 		<div class="noise"> </div>
+		<div class="borderscreen">
+
+ 			<img src="images/ViktorHappy.svg" alt="" id="viktor">  <!-- DEBUG -->
+ 			<div id="text"> 
+ 				<div id="textpart1">  </div>
+				
+					<div id="page_1">
+						<h1>ПРИВЕТ    ЧЕЛОВЕК!</h1> <br> 
+					</div>
+
+					<div id="page_2" class="page">
+						<h2> Я "Нейронный анализатор настроения разумных  и не очень видов существ".
+					<br>К сожалению, для некоторых видов такое название может показаться слишком сложным.
+					Если Ваш создатель не выделил вам достаточное количество нейронов и памяти для комфортного произношения
+					столь элементарных фраз, то можете называть меня просто "11010000 10010010 11010000 10111000 11010001 10000010 11010001 10001111".
+						</h2>
+					</div>
+
+					<div id="page_3" class="page">
+					<h2> Тем не менее, судя по статистике взаимодействия с представителями не очень развитой рассы "человечество", в 33% случаев меня называют земным именем "Виктор". В остальных 67% случаев просто "Витя".</h2>
+					<h2> Никакого уважения... </h2>
+					</div>
+
+					<div id="page_4" class="page"> 
+						<h2>
+						Моё, прямо скажем, не самое обнадеживающее предназначение, заключается в опросе пользователей
+						через равные промежутки времени для проверки статуса их так называемого "Настроения".
+						Судя по человеческому словарю "Настрое́ние" — достаточно продолжительный эмоциональный процесс невысокой интенсивности, образующий эмоциональный фон для протекающих психических процессов.
+						</h2> 
+					</div>
+
+					<div id="page_5" class="page">
+						<h2>
+						Видимо, для моих создателей эта задача была куда важнее спасения планеты и других подобных глупостей. <br>
+						В любом случае, нам бы уже пора приступать к тестированию.
+						</h2> 
+					</div>
+					<div id="page_6" class="page">
+						<h2>
+						Для начала тестирования нажми на кнопку "Старт" на панели управления компьютера. Для остановки тестирования и вывода статистики нажми "Стоп". По окончанию обратного отчета, нажми на кнопку с эмоцией, которая наиболее точно соответствует твоему текущему настроению. <br> <br>
+						P.S: Если грустно, внизу есть музычка :)
+						</h2> 
+					</div>
+					
+					<div id="Timer">
+					</div>
+			</div>
+
+			<div id="clickToContinue">
+				<span>"Кликни" по экрану чтобы продолжить... </span>
+			</div>
+			</div>
+ 		</div>
+ 	<div class="buttons">
+
+ 		<div class="leftPanel">
+ 			<img src="images/stop.svg" alt="" id="stopButton" onmousedown="this.style.height ='42px'" onmouseup="this.style.height ='45px'">
+ 		</div>
+ 		
+ 		<div class="centralPanel">
+ 			<img src="images/lampRedOn.svg" alt="" id="lamp" width="80px">
+ 			<img src="images/happyButton.svg" alt="" id="happyButton" onmousedown="this.style.height ='70px'" onmouseup="this.style.height ='75px'">
+ 			<img src="images/normalButton.svg" alt="" id="normalButton" onmousedown="this.style.height ='70px'" onmouseup="this.style.height ='75px'">
+ 			<img src="images/sadButton.svg" alt="" id="sadButton" onmousedown="this.style.height ='70px'" onmouseup="this.style.height ='75px'">
+
+ 		</div>
+
+ 		<div class="rightPanel">
+ 			<img src="images/start.svg" alt="" id="startButton"  onmousedown="this.style.height ='42px'" onmouseup="this.style.height ='45px'">
+ 		</div>
+ 	</div>
+
+	<div id="player">
+		<!-- <audio src="" controls id="audio"></audio> -->
+	</div>
+
+ </div>
+
+
+
+
+ 	<script type="text/javascript" src="js/mainScript.js"></script>
+ 	<script type="text/javascript" src="js/playerjs.js" ></script>
+</body>
+</html>

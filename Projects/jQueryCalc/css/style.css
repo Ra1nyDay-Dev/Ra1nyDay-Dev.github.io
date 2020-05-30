@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: tomato;
+}
+
+body ::selection {
+ background: tomato;
+}
+
+body #content {
+
+  box-sizing: border-box;
+  padding: 10px;
+  border-radius: 25px;
+  margin: 10vh auto;
+  background: white;
+  width: 1300px;
+  height: 770px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+body #content p {
+  font-family: Georgia;
+  font-size: 16px;
+}
+body #content h1 {
+  font-family: Georgia;
+  font-size: 36px;
+  font-style: italic;
+}
+
+body #content img {
+	position: absolute;
+	left:20px;
+}
+
+body #content main {
+	margin-top: 40px;
+	width: 100%;
+}
+
+body #content main .operation{
+margin: 0px 20px 0px 20px;
+}
+
+body #content footer{
+	box-sizing: border-box;
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	padding:20px;
+}
+
+label {
+	font-weight: bold;
+}
+
+
+input {
+	height: 30px;
+	width: 150px;
+	
+}
+
+select, input {
+	border-radius: 10px;
+	border: 2px solid black;	
+
+	text-align: center;
+	text-align-last: center;
+	background: #dadada;
+	font-size: 18px;
+}
+
+
+ /* убираем уродские стрелочки из селект и импут */
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+	
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  height: 36px;
+  font-family: Georgia;
+  width: 190px;
+}
+
+/* конец работы с импут и селект */
+
+#result {
+	font-weight:bold;
+	font-size: 86px;
+}
+
+
+button {
+	height: 50px;
+}

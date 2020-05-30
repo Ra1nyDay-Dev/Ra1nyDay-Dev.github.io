@@ -1,0 +1,36 @@
+
+@pSize: 16px;
+@hSize: 36px;
+@contentBackground: white;
+@BodyBackground: tomato;
+@pFamily: Georgia;
+@hFamily: Georgia;
+
+body {
+  margin: 0;
+  padding: 0;
+  background: @BodyBackground;
+
+  #content {
+  background-radius:25px;
+  margin: 10vh auto;
+  background: @contentBackground;
+  width: 70%;
+  height: 80vh;
+
+    p {
+  font-family:@pFamily;
+  font-weight: @pSize;
+    }
+    
+    h1 {
+      font-family:@hFamily;
+      font-weight: @hSize;
+    }
+}
+
+  
+}
+
+
+

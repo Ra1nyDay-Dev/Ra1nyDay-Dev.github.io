@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Слой_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 579 579"
+	 style="enable-background:new 0 0 579 579;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#648C71;}
+	.st1{fill:#A24F4F;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="551" width="551" x="13" y="15"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<title>ViktorDead</title>
+<polygon class="st0" points="417.1,216 416.9,216 417,215.9 "/>
+<rect x="360" y="227" class="st0" width="10" height="0.1"/>
+<polygon class="st0" points="200.1,250 199.1,250 198.9,249.9 199.9,249.9 "/>
+<path class="st1" d="M421.2,47H155.8c-26.2,14.4-49.8,33-70.1,55h405.5C471,80,447.4,61.4,421.2,47z M13,290
+	c0.1,17.5,1.8,34.9,5.2,52h540.6c3.4-17.1,5.1-34.5,5.2-52H13z M19,346c4.1,19.3,10.2,38.1,18.4,56H175v-12h232v12h132.6
+	c8.1-17.9,14.3-36.7,18.4-56H19z M407,406v10H175v-10H39.3c9.5,20,21.3,38.8,35.2,56h428c14-17.2,25.8-36,35.2-56H407z M150.5,527
+	c85.4,49.3,190.6,49.3,276,0H150.5z M77.8,466c18.9,22.4,41.1,41.6,66,57h289.3c24.9-15.4,47.2-34.6,66-57H77.8z M494.9,106H82.1
+	c-15.1,17-28,35.8-38.4,56h489.6C522.8,141.8,509.9,123,494.9,106z M288.5,13c-43.5-0.1-86.4,10.2-125.1,30h250.3
+	C374.9,23.2,332,12.9,288.5,13z"/>
+<path class="st1" d="M424,227l30.5,26.4l-7.1,7.1L417,232l-30.4,28.5l-7.1-7.1L410,227H176.1l22.9,22.9h1l0.1,0.1h-1l5.4,5.4
+	l-7.1,7.1L186.9,252l-0.1-0.1L167,232.1l-19.8,19.8l-0.1,0.1l-10.5,10.5l-7.1-7.1l28.4-28.4h-138c-4.4,19.4-6.7,39.1-6.9,59h551
+	c-0.2-19.9-2.5-39.6-6.9-59H475 M152.9,218l-23.4-23.4l7.1-7.1l28.5,28.5l1.9,1.9l1.9-1.9l28.5-28.5l7.1,7.1L181.1,218l-5,5h233.9
+	l-7-7l-23.4-23.4l7.1-7.1L417,219l30.4-33.5l7.1,7.1L431.1,216l-7,7h132.1c-4.8-19.7-11.8-38.8-20.8-57H41.7
+	c-9,18.2-16,37.3-20.8,57h137.1L152.9,218z"/>
+<polygon class="st0" points="200.1,250 199.1,250 198.9,249.9 199.9,249.9 "/>
+</svg>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div id="content">
+
+		<header>
+			<a href="https://universarium.org/" target="blank_"><img src="images/logo.png" alt="" > </a>
+		 	<h1> Простой калькулятор на jQuery </h1> <br>
+		 	<hr width="75%">
+	 	</header>
+
+	 	<main>
+	 		<h2> Введите несколько чисел для вывода результата:</h2> <br><br>
+
+			<form>
+	 		<label for="argument1">X</label>
+	 		<input type="number" id="argument1" class="arguments" placeholder="Введите число X" value=" ">
+
+	 		<select class="operation" id="operation1">
+	 		<option selected value=" ">  Выберите операцию </option>
+	 		<option value="+">+</option>
+	 		<option value="-">-</option>
+	 		<option value="*">*</option>
+	 		<option value="/">÷</option>
+	 		</select>
+
+	 		<label for="argument2">Y</label>
+	 		<input type="number" id="argument2" class="arguments" placeholder="Введите число Y" value=" ">
+
+	 		<select class="operation" id="operation2">
+	 		<option selected value=" "> Выберите операцию</option>
+	 		<option value="+">+</option>
+	 		<option value="-">-</option>
+	 		<option value="*">*</option>
+	 		<option value="/">÷</option>
+	 		</select>
+
+	 		<label for="argument2">Z</label>
+	 		<input type="number" id="argument3" class="arguments" placeholder="Введите число Z" value=" ">
+			</form>
+
+	 		<br><br><br><h2> Вывод: </h2> <br>
+
+	 		<div id="result">
+
+	 		</div>
+	 	</main>
+
+	 	<footer>
+	 	<h2> Попробуйте другие операции:</h2>
+	 		<button id="degree">Возвести в квадрат</button>
+	 		<button id="сalculateDegrees">Сумма квадратов</button>
+	 		<button id="sqrt">Квадратный корень</button>
+	 		<button id="сalculateSqrts">Сумма корней</button>
+	 		<button id="xyParentheses">Считать со скобками между Х и Y</button>
+	 		<button id="yzParentheses">Считать со скобками между Y и Z</button>
+	 		<button id="return">Вернуть стандартный вывод</button>
+	 	</footer>
+
+	</div>
+<script src="js/jquery-3.5.1.min.js"></script>
+<script src="js/mainScript.js"></script>
+</body>
+</html>
