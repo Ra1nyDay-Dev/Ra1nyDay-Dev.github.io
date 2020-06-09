@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Слой_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 579 579"
+	 style="enable-background:new 0 0 579 579;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#439762;}
+	.st1{fill:#648C71;}
+	.st2{fill:#CEEAD6;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="551" width="551" x="13" y="15"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<title>ViktorVeryHappy</title>
+<path class="st0" d="M556.2,223H463v-9l-46.5-19L370,216v7H213v-9l-46.5-19L120,216v7H20.8c4.8-19.7,11.8-38.8,20.8-57h493.7
+	C544.4,184.2,551.4,203.3,556.2,223z"/>
+<polygon class="st1" points="463,249.8 463,250 461,249.1 460.8,248.9 417,228.1 372.2,249 372,249.1 370,250 370,249.8 372,248.9 
+	417,228 461,248.8 "/>
+<rect x="360" y="227" class="st1" width="10" height="0.1"/>
+<polygon class="st1" points="372.2,249 372,249.1 370,250 370,249.8 372,248.9 "/>
+<polygon class="st1" points="463,249.8 463,250 461,249.1 460.8,248.9 461,248.8 "/>
+<rect x="463" y="227" class="st1" width="12" height="0.1"/>
+<polygon class="st2" points="213,227 231,227 231,266 99,266 99,227 120,227 120,249.8 167,228 213,249.8 "/>
+<path class="st0" d="M288.5,13c-43.5-0.1-86.4,10.2-125.1,30h250.3C374.9,23.2,332,12.9,288.5,13z M494.9,106H82.1
+	c-15.1,17-28,35.8-38.4,56h489.6C522.8,141.8,509.9,123,494.9,106z M77.8,466c18.9,22.4,41.1,41.6,66,57h289.3
+	c24.9-15.4,47.2-34.6,66-57H77.8z M150.5,527c85.4,49.3,190.6,49.3,276,0H150.5z M407,406l-14.5,35.9H187.4L175,406H39.3
+	c9.5,20,21.3,38.8,35.2,56h428c14-17.2,25.8-36,35.2-56H407z M19,346c4.1,19.3,10.2,38.1,18.4,56H173l-6-20h249l-7,20h130.6
+	c8.1-17.9,14.3-36.7,18.4-56H19z M13,290c0.1,17.5,1.8,34.9,5.2,52h540.6c3.4-17.1,5.1-34.5,5.2-52H13z M421.2,47H155.8
+	c-26.2,14.4-49.8,33-70.1,55h405.5C471,80,447.4,61.4,421.2,47z"/>
+<path class="st0" d="M564,286H13c0.2-19.9,2.5-39.6,6.9-59H120v22.8l47-21.8l46,21.8V227h157v23l2-0.9l0.2-0.1l44.8-20.8l43.8,20.8
+	l0.2,0.1l2,0.9v-23h94.1C561.5,246.4,563.8,266.1,564,286z"/>
+</svg>
